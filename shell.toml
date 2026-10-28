@@ -1,0 +1,78 @@
+# Omarchy Shell Surfaces for nodaysidle Royal Green
+# Haute Horology & British Racing Atelier
+
+[bar]
+background       = "#0C140E"
+background-alpha = 0.90
+text             = "#D4AF37"
+active           = "#4ADE80"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
+
+[hyprland]
+active-border            = "#D4AF37"
+active-border-foreground = "#4ADE80"
+
+[controls]
+normal-color        = "#4A7C59"
+normal-fill-alpha   = 0.08
+normal-border       = "#2D4A36"
+normal-border-width = 1
+normal-border-alpha = 0.70
+
+hover-cursor-color        = "#D4AF37"
+hover-cursor-fill-alpha   = 0.20
+hover-cursor-border       = "#D4AF37"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.85
+
+focus-color        = "#D4AF37"
+focus-fill-alpha   = 0.16
+focus-border       = "#D4AF37"
+focus-border-width = 1
+focus-border-alpha = 0.85
+
+selected-color        = "#4ADE80"
+selected-fill-alpha   = 0.24
+selected-border       = "#D4AF37"
+selected-border-width = 1
+selected-border-alpha = 0.90
+
+pressed-fill-alpha   = 0.35
+selection-fill-alpha = 0.45
+
+[font]
+base-size = 11
+
+[popups]
+background       = "#0C140E"
+background-alpha = 0.96
+text             = "#ECEADD"
+border           = "#D4AF37"
+border-alpha     = 0.60
+
+[tooltip]
+background       = "#080E09"
+background-alpha = 0.98
+text             = "#D4AF37"
+border           = "#2D4A36"
+border-alpha     = 0.75
+
+[notifications]
+background       = "#0C140E"
+background-alpha = 0.96
+text             = "#ECEADD"
+border           = "#D4AF37"
+border-alpha     = 0.80
+urgency-low      = "#5B6A5E"
+urgency-normal   = "#D4AF37"
+urgency-critical = "#E05A5A"
+
+[osd]
+background       = "#0C140E"
+background-alpha = 0.94
+text             = "#D4AF37"
+border           = "#2D4A36"
+border-alpha     = 0.70
+fill             = "#D4AF37"

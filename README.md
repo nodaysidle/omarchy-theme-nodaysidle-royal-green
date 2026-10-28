@@ -1,4 +1,4 @@
-# nodaysidle Royal Green — Omarchy Theme 🌲⏱️
+# nodaysidle Royal Green — Omarchy Theme
 
 > *"Precision horology meets British racing heritage: crafted for relentless shipping."*
 
@@ -8,7 +8,7 @@ Rooted in the visual DNA of British racing greens, bespoke leathercraft, and hau
 
 ---
 
-## 🎨 Design System & Color Tokens
+## Design System & Color Tokens
 
 Anchored in a deep peat and spruce-noir ground with polished champagne gold and racing emerald accents:
 
@@ -26,7 +26,7 @@ Anchored in a deep peat and spruce-noir ground with polished champagne gold and 
 
 ---
 
-## ⚡ Key Architectural Features
+## Key Architectural Features
 
 ### 1. Dual-Tone Champagne & Emerald Borders
 A refined 2px active border flowing at a 45° angle from **Polished Champagne Gold (`#D4AF37`)** through **Emerald Spark (`#4ADE80`)** into **British Racing Green (`#1B4332`)**. Rendered without continuous animation loops to guarantee zero GPU overhead on Intel Arc iGPUs.
@@ -52,7 +52,7 @@ Includes 4 bespoke wallpapers at native 2560×1440:
 
 ---
 
-## 🚀 Installation & Activation
+## Installation & Activation
 
 ### 1. Register the Theme
 Run the installer from within the theme repository:
@@ -74,7 +74,7 @@ omarchy theme bg next
 
 ---
 
-## 📂 File Architecture
+## File Architecture
 
 ```
 omarchy-theme-nodaysidle-royal-green/
@@ -96,5 +96,5 @@ omarchy-theme-nodaysidle-royal-green/
 
 ---
 
-## 🏎️ Built for NODAYSIDLE
+## Built for NODAYSIDLE
 Part of the [nodaysidle](https://github.com/nodaysidle) workspace — relentless shipping, zero compromise.
